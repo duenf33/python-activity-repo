@@ -1,0 +1,6 @@
+I want you guys to psuedocode your own steps to convert a Decimal Number (like 255) into Binary format (11111111) 
+
+- array: 128, 64, 32, 16, 8, 4, 2, 1
+- take decimal value from input
+- find the sum of the array to be equal to the decimal input
+- using the index of each value from the array find the numbers used to sum up to the input value.

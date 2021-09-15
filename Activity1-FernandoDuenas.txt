@@ -1,0 +1,106 @@
+I have created this Pseudocode starting from a point of view more descriptive to a computer, to a simple one describing it to a person already having experience with it.
+
+Create a Pseudocode Text File Describing the Process of:
+
+1. Brushing Your Teeth
+    step 0 - move hand to 5 inches from chest.
+    step 1 - Calculate the distance of tooth paste from left hand initial state, where your standing. 
+    step 2 - reach out with left hand and grab tooth paste using (step 1) calculations, having the cap of the toothpaste tube by the left thumb and index finger.
+    step 3 - retract arm towards the initial state.
+
+    step 4 - calculate distance from right hand to left hand.
+    step 5 - using the right hand index finger and the thumb reach out to the toothpaste's cap.
+    step 6 - flip cap over, leaving an aperture of roughly 1/4 inch. 
+
+    step 12 - calculate distance of toothbrush from right hand initial state.
+    step 13 - reach out with right hand and grab tooth brush by the handle using (step 4) calculations.
+    step 14 - pull toothbrush out of container.
+    step 15 - retract right hand to the initial state.
+
+    step 16 - turn toothbrush with the brush facing up.
+    step 17 - calculate distance from toothpaste tube to toothbrush
+    step 18 - place the open aperture side of toothpaste tube close to the toothbrush brush.
+    step 19 - starting with slow and gentle pressure squeezing toothpaste tube with the left hand.
+    step 20 - calculate a small amount of 1/4 inch radius squeezed out of toothpaste tube onto the toothbrush brush.
+
+    step 21 - calculate distance of countertop from left hand with toothpaste.
+    step 22 - with (step 21) calculations reach out to countertop.
+    step 23 - place left hand with toothpaste tube on the countertop.
+    step 24 - open left hand releasing toothpaste onto countertop. 
+
+    step 25 - calculate distance of faucet cold water knob from left hand.
+    step 26 - reach out to faucet cold water knob with left hand.
+    step 27 - once left hand placed on faucet cold water knob, hold knob with left hand.
+    step 28 - rotate knob to the right with left hand until there is a <small> amount of water pouring out of faucet.
+    
+    step 29 - calculate distance of water streaming out of faucet from right hand with toothbrush.
+    step 30 - move right hand with toothbrush in the stream of water pouring out of faucet.
+    step 31 - leave toothbrush in water for only 5 seconds.
+    step 32 - retract right hand to initial state.
+    
+    step 33 - calculate distante to mouth from right hand initial state.
+    step 34 - calculate upper front teeth to jaw distance
+    step 35 - calculate bottom front teeth to jaw distance
+    step 36 - calculate length of brush of toothbrush
+    step 37 - calculate thickness of plastic holding brush.
+    step 38 - add (step 36 and step 37)
+    step 39 - result of (step 38) + 1/4 inch will be the distance of bottom front tooth from top front tooth.
+    step 40 - measure jaw angle opening with (step 39)
+    step 41 - set (step 40) as angle of mouth opening for brushing teeth.
+
+    step 41 - using (step 33) move right hand with toothbrush to mouth.
+    step 42 - using (step step 39) calculations keep center toothbrush with same even clearance from bottom and top tooth.
+-   step 43 - reach to back of mouth at the end of the ${right} row side alignment of ${bottom} teeth.
+
+    step 44 - place brush side of toothbrush <gently> against last tooth of the row
+    step 45 - using (step 35) move toothbrush back and forth at a speed of 1 revolution per second for only 5 seconds
+
+    step 46 - move toothbrush at 90 degrees to right side of teeth 
+
+    step 47 - repeat (step 44 and step 45)
+
+    step 48 - move toothbrush at 180 degrees to left side of teeth
+
+    step 49 - repeat (step 47)
+
+    step 50 - move toothbrush 90 degrees to the right towards the top teeth.
+
+    step 51 - repeat (step 43 - ${right} ${top}) thru (step 49)
+
+    step 52 - stop toothbrush revolutions.
+    step 53 - calculate distance of right side of mouth teeth to left side.
+    step 54 - move toothbrush with slow speed to the left side of mouth avoiding hitting the tongue.
+    step 55 - repeat (step 43 - ${left} ${bottom}) to (step 52)
+
+    step 56 - rotate toothbrush 180 degrees aligning with the left side of teeth.
+    step 58 - while keeping toothbrush contact with teeth move toothbrush
+    step 59 - align front upper tooth with front bottom tooth
+    step 60 - close mouth <slightly> making a <slow> <gentle> contact of the upper and bottom front teeth.
+
+
+    ( I will stop at this step because if I dont will keep going another 60 steps.)
+    
+
+
+
+2. Making Cereal
+    step 1 - walk to kitchen
+    step 2 - grab a bowl from shelf
+    step 3 - grab cereal from shelf
+    step 4 - open cereal box 
+    step 5 - fill bowl with cereal.
+    step 6 - close cereal box
+    step 7 - place cereal box back on shelf
+    step 8 - grab milk from fridge
+    step 9 - unscrew cap from milk carton
+    step 10 - pour milk in bowl with cereal
+    step 11 - put cap back on milk carton.
+    step 12 - place milk back in fridge.
+    step 13 - grab spoon
+    step 14 - place spoon in bowl 
+    step 15 - eat the cereal.
+
+3. Making Your Bed
+    step 1 - remove pillows from bed.
+    step 2 - re-adjust bedding sheet covers
+    step 3 - place pillows back on bed.

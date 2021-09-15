@@ -1,0 +1,21 @@
+* Create a Psuedocode Algorithm to perform the following function:
+    (For convertin specifically numbers 0-255)
+    a. Convert Decimal Numbers (like 255) to its equivalent Binary Number format (11111111)
+
+1. Get the number in decimal that you want to convert to binary.
+2. Evaluate the Square Root of the Number Passed in.
+    2a. Round that value up to the nearest whole number
+3. Store that value somewhere. ->
+4. Divide that stored value by 2.
+5. Store that value somewhere. -> (representing the bits)
+6 you need to create a "collection" that stores as many items as there are bits.
+7. Iterate through the collection
+8. At each item in the collection (there should be as many as there bits) we are going to perform a check
+9. 
+
+I want you guys to psuedocode your own steps to convert a Decimal Number (like 255) into Binary format (11111111) 
+
+- array: 128, 64, 32, 16, 8, 4, 2, 1
+- take decimal value from input
+- find the sum of the array to be equal to the decimal input
+- using the index of each value from the array find the numbers used to sum up to the input value.
