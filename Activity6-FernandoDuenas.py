@@ -18,5 +18,14 @@ Perform Dictionary Methods on your Object, and in a comment explain the result y
 '''
 
 # i expect to get an empty Dictionany.
-print(car.clear())
-print(car)
+# print(car.clear())
+# print(car)
+
+# This on is only making a reference to the original
+car2 = car
+print('original:', car)
+print('car2 copy:', car2)
+
+# Using the copy() method a new dictionary is created, having a copy of the references from the original.
+carCopy = car.copy()
+print('carCopy: ', carCopy)
