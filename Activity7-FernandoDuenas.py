@@ -16,4 +16,4 @@ def mult(one, two):
 def div(one, two):
     return one / two
 
-print(div(6,2))
+print(add(6,2))
