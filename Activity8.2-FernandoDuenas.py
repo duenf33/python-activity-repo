@@ -16,19 +16,21 @@ class color:
 
 print(f"{color.GREEN}CAUTION!! Vehicles crossing.{color.ENDC}")
 button = input("Do you need to cross the road? yes or no? - ")
+def trafficLight():
+   if button == "yes":
+      countdown = 3
+      for count in reversed(range(1, countdown + 1)):
+         print(count)
+         time.sleep(1)
 
-if button == "yes":
-   countdown = 3
-   for count in reversed(range(1, countdown + 1)):
-      print(count)
-      time.sleep(1)
+      print(f"{color.AMBER}Prepare to stop!{color.ENDC}")
+      time.sleep(2)
+      print(f"{color.RED}STOP!!{color.ENDC}")
+      time.sleep(2)
 
-   print(f"{color.AMBER}Prepare to stop!{color.ENDC}")
-   time.sleep(2)
-   print(f"{color.RED}STOP!!{color.ENDC}")
-   time.sleep(2)
+   elif button == "no":
+      time.sleep(2)
+      print(f"{color.BLUE}Have a nice day.{color.ENDC}")
+      time.sleep(2)
 
-elif button == "no":
-   time.sleep(2)
-   print(f"{color.BLUE}Have a nice day.{color.ENDC}")
-   time.sleep(2)
+trafficLight()
