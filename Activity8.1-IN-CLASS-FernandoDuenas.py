@@ -17,3 +17,4 @@ def intFunc(nums):
     
 result = intFunc([num1, num2, num3])
 print(result)
+print(type(result))
